@@ -31,22 +31,19 @@
     <img class="center-block img-responsive" id="raisedEdge" src="images/raised-edge.png">
 
     <div class="row">
-        <div class="col-xs-12 col-sm-3">
-            <img class="center-block img-responsive" alt="TEAMMATES - Praised by Users" src="images/overview_praise.png">
-        </div>
-        <div class="col-xs-12 col-sm-8">
+    	<div class="col-xs-12 col-sm-8">
             <h2 class="media-heading">Praised by Users:</h2>
             <p id="testimonialContainer">
                 Thank you for building such a wonderful tool.
                 <br>-Faculty user, Canada
             </p>
         </div>
+        <div class="col-xs-12 col-sm-3">
+            <img class="center-block img-responsive" alt="TEAMMATES - Praised by Users" src="images/overview_praise.png">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-3">
-            <img class="center-block img-responsive" alt="TEAMMATES - Award winning, mature, field-tested and improving all the time" src="images/award_winning.png">
-        </div>
         <div class="col-xs-12 col-sm-8">
             <h2 class="media-heading">Award Winning, Mature, Field-tested:</h2>
             <p>
@@ -54,12 +51,12 @@
                 TEAMMATES won the Grand Prize at the OSS Awards World Challenge 2014 and was selected as a mentoring organization for Google Summer of Code Program (2014, 2015, 2016) and Facebook Open Academy Program (2016).
             </p>
         </div>
+        <div class="col-xs-12 col-sm-3">
+            <img class="center-block img-responsive" alt="TEAMMATES - Award winning, mature, field-tested and improving all the time" src="images/award_winning.png">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-3">
-            <img class="center-block img-responsive" alt="TEAMMATES - Designed for simplicity, flexibility, power" src="images/overview_peerfeedback.png">
-        </div>
         <div class="col-xs-12 col-sm-8">
             <h2 class="media-heading">Designed for Simplicity, Flexibility, and Power:</h2>
             <p>
@@ -68,12 +65,12 @@
                 <a href="features.jsp">More about our features...</a>
             </p>
         </div>
+        <div class="col-xs-12 col-sm-3">
+            <img class="center-block img-responsive" alt="TEAMMATES - Designed for simplicity, flexibility, power" src="images/overview_peerfeedback.png">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-3">
-            <img class="center-block img-responsive" alt="TEAMMATES - Powered by Google Infrastructure" src="images/overview_google.png">
-        </div>
         <div class="col-xs-12 col-sm-8">
             <h2 class="media-heading">Powered by Google Infrastructure:</h2>
             <p>
@@ -81,12 +78,12 @@
                 using cutting edge cloud technologies and benefiting from the same systems and infrastructure that power Google's applications.
             </p>
         </div>
+        <div class="col-xs-12 col-sm-3">
+            <img class="center-block img-responsive" alt="TEAMMATES - Powered by Google Infrastructure" src="images/overview_google.png">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-3">
-            <img class="center-block img-responsive" alt="TEAMMATES - Growing global community" src="images/overview_countries.png">
-        </div>
         <div class="col-xs-12 col-sm-8">
             <h2 class="media-heading">Growing Global Community:</h2>
             <p>
@@ -95,12 +92,12 @@
             </p>
             <p><a href="usermap.jsp">See who is using TEAMMATES.</a></p>
         </div>
+        <div class="col-xs-12 col-sm-3">
+            <img class="center-block img-responsive" alt="TEAMMATES - Growing global community" src="images/overview_countries.png">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-3">
-            <img class="center-block img-responsive" alt="TEAMMATES - Not for Profit" src="images/overview_funding.png">
-        </div>
         <div class="col-xs-12 col-sm-8">
             <h2 class="media-heading">Not for Profit:</h2>
             <p>
@@ -108,12 +105,12 @@
                 TEAMMATES also received funding support under the <a href="https://developers.google.com/open-source/gsoc/" target="_blank"> Google Summer of Code</a> program in 2014, 2015, and 2016.
             </p>
         </div>
+        <div class="col-xs-12 col-sm-3">
+            <img class="center-block img-responsive" alt="TEAMMATES - Not for Profit" src="images/overview_funding.png">
+        </div>
     </div>
 
     <div class="row">
-        <div class="col-xs-12 col-sm-3">
-            <img class="center-block img-responsive" alt="TEAMMATES - Well received by Academic community" src="images/overview_conference.png">
-        </div>
         <div class="col-xs-12 col-sm-8">
             <h2 class="media-heading">Well Received by the Academic Community:</h2>
             <p>
@@ -123,6 +120,9 @@
                 the <a href="https://iated.org/edulearn13/" target="_blank" rel="noopener noreferrer">EDULEARN13 Conference (Spain)</a>,
                 and the <a href="http://cdtl.nus.edu.sg/tel2013/" target="_blank" rel="noopener noreferrer">Tel2013 Symposium (Singapore)</a>.
             </p>
+        </div>
+        <div class="col-xs-12 col-sm-3">
+            <img class="center-block img-responsive" alt="TEAMMATES - Well received by Academic community" src="images/overview_conference.png">
         </div>
     </div>
 </t:staticPage>
